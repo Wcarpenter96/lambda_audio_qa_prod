@@ -1,14 +1,16 @@
 #  Audio Annotation Quality Analysis Lambda Function
  
- This lambda was built for a large enterprise customer but is now anonymized for open source.
+ This serverless function was built for a large enterprise customer but is now anonymized for open source.
  
  ## How to use
  
  Zip this repository and upload straight to your lambda function
  
- ## Future implementations
+ ## Future work
  
- Github Actions for publishing lambda function
+ * Add dependency packages 
+ 
+ * Github Actions for publishing lambda function
  
  
  
