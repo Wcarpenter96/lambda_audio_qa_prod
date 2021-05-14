@@ -6,12 +6,14 @@
  
  Zip this repository and upload straight to your lambda function
  
- ## Future work
+ ## Historical Usage
+ ![Invocations](invocations.png)
+
+ ![Duration](duration.png)
+
+  ## Future work
  
  * Add dependency packages 
  
  * Github Actions for publishing lambda function
- 
- 
- 
  
