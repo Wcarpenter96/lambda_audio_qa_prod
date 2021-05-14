@@ -1,4 +1,4 @@
-#  Audio Annotation Quality Analysis Lambda Function
+#  Audio Annotation Quality Analysis Serverless Function
  
  This serverless function was built for a large enterprise customer but is now anonymized for open source.
  
