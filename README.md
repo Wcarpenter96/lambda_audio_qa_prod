@@ -1,6 +1,7 @@
 #  Audio Annotation Quality Analysis Serverless Function
  
  This serverless function was built for a large enterprise customer but is now anonymized for open source.
+ It is currently running in production and has sampled over 100,000 annotated audio files across multiple projects.
  
  ## How to use
  
